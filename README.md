@@ -9,6 +9,10 @@ train.csv - training data
 
 test.csv - test data
 
+sample_submission.csv - sample submission
+
+My final submission was submission5.csv
+
 The feature description can be seen in the data_description.txt
 
 ## Metrics
